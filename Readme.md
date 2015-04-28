@@ -1,3 +1,3 @@
-[x] Get haml working
-[ ] Sass
-[ ] Coffeescript
+- [x] Haml
+- [x] Sass
+- [ ] Coffeescript
